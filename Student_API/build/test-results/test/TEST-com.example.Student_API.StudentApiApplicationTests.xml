@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.Student_API.StudentApiApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-26T15:07:34" hostname="Linux" time="5.632">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.Student_API.StudentApiApplicationTests" time="5.632"/>
+  <system-out><![CDATA[20:37:17.392 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.Student_API.StudentApiApplicationTests]: StudentApiApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:37:18.242 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.Student_API.StudentApiApplication for test class com.example.Student_API.StudentApiApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-02-26T20:37:21.605+05:30  INFO 43347 --- [    Test worker] c.e.S.StudentApiApplicationTests         : Starting StudentApiApplicationTests using Java 17.0.9 with PID 43347 (started by vboxuser in /home/vboxuser/Downloads/Student_API)
+2024-02-26T20:37:21.616+05:30  INFO 43347 --- [    Test worker] c.e.S.StudentApiApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2024-02-26T20:37:34.115+05:30  INFO 43347 --- [    Test worker] c.e.S.StudentApiApplicationTests         : Started StudentApiApplicationTests in 14.523 seconds (process running for 26.321)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
